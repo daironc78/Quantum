@@ -1,0 +1,14 @@
+D:\PRUEBA\Quantum\PruebaQuantum\PruebaQuantum\bin\Debug\netcoreapp3.1\PruebaQuantum.exe
+D:\PRUEBA\Quantum\PruebaQuantum\PruebaQuantum\bin\Debug\netcoreapp3.1\PruebaQuantum.deps.json
+D:\PRUEBA\Quantum\PruebaQuantum\PruebaQuantum\bin\Debug\netcoreapp3.1\PruebaQuantum.runtimeconfig.json
+D:\PRUEBA\Quantum\PruebaQuantum\PruebaQuantum\bin\Debug\netcoreapp3.1\PruebaQuantum.runtimeconfig.dev.json
+D:\PRUEBA\Quantum\PruebaQuantum\PruebaQuantum\bin\Debug\netcoreapp3.1\PruebaQuantum.dll
+D:\PRUEBA\Quantum\PruebaQuantum\PruebaQuantum\bin\Debug\netcoreapp3.1\PruebaQuantum.pdb
+D:\PRUEBA\Quantum\PruebaQuantum\PruebaQuantum\obj\Debug\netcoreapp3.1\PruebaQuantum.csproj.AssemblyReference.cache
+D:\PRUEBA\Quantum\PruebaQuantum\PruebaQuantum\obj\Debug\netcoreapp3.1\PruebaQuantum.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRUEBA\Quantum\PruebaQuantum\PruebaQuantum\obj\Debug\netcoreapp3.1\PruebaQuantum.AssemblyInfoInputs.cache
+D:\PRUEBA\Quantum\PruebaQuantum\PruebaQuantum\obj\Debug\netcoreapp3.1\PruebaQuantum.AssemblyInfo.cs
+D:\PRUEBA\Quantum\PruebaQuantum\PruebaQuantum\obj\Debug\netcoreapp3.1\PruebaQuantum.csproj.CoreCompileInputs.cache
+D:\PRUEBA\Quantum\PruebaQuantum\PruebaQuantum\obj\Debug\netcoreapp3.1\PruebaQuantum.dll
+D:\PRUEBA\Quantum\PruebaQuantum\PruebaQuantum\obj\Debug\netcoreapp3.1\PruebaQuantum.pdb
+D:\PRUEBA\Quantum\PruebaQuantum\PruebaQuantum\obj\Debug\netcoreapp3.1\PruebaQuantum.genruntimeconfig.cache
